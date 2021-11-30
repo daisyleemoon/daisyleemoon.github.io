@@ -1,11 +1,11 @@
 @import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+
 body,
 html {
   height: 100%;
   width: 100%;
   font-family: "cwTeXYen", "Noto Sans TC", sans-serif;
   font-weight: 300;
-}
-body {
   background-color: #b9af9f;
+  font-size: calc(0.75em + 1vw);
 }
